@@ -1,0 +1,9 @@
+{
+    "name": "motion-and-color",
+    "scripts": {
+        "build": "tsc --watch"
+    },
+    "dependencies": {
+        "typescript": "^5.2.2"
+    }
+}
